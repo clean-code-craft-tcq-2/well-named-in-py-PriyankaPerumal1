@@ -1,4 +1,4 @@
-import color_code as color
+import color_code_mapping as color
 
 def get_color_code_manual():
     pairNo = 1
